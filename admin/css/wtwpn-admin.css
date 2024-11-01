@@ -1,0 +1,117 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table td, .table th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.table tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.table .header{
+	text-align:center;
+	background-color:#7faf8b;
+	  padding: 8px;
+}
+.subscribed
+{
+text-align: center;
+    font-weight: bold;
+    color: #fff;
+    background-color: #FFB402;
+    border-radius: 20px;
+    width: 122px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.subscribedtotal
+{
+text-align: center;
+    font-weight: bold;
+    color: #fff;
+	background-color: #19BC9C;
+	border-radius: 20px;  
+	width: 122px;    
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.Notification
+{
+	text-align: center;
+    font-weight: bold;
+    color: #fff;
+	background-color: #19BC9C;
+	border-radius: 20px;
+	width: 122px;    
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.Notificationtotal
+{
+text-align: center;
+    font-weight: bold;
+    color: #fff;
+	background-color: #FFB402;
+    border-radius: 20px;
+	width: 122px;    
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.Stay
+{
+    background-color: #F0F0F0;
+     padding-bottom: 30px;
+}
+.fa {
+    font-size: 3em!important;
+     line-height: 1 !important;
+     padding-bottom: 10px;
+}
+.social2
+{
+    font-size: 40px !important;
+    padding-left:16px !important;
+        color: #3b5998;
+}
+.social1
+{
+    font-size: 40px !important;
+    padding-left:31px !important;
+        color: #E48A07;
+}
+.social3
+{
+    font-size: 40px !important;
+    padding-left:23px !important;    
+    color: #00acee;
+}
+.social4
+{
+    font-size: 40px !important;
+    padding-left:53px !important;
+    color: #c4302b;
+}
+.social5
+{
+    font-size: 40px !important;
+    padding-left:53px !important;
+        color: #44bbff;
+}
+.subs,.noti
+{
+	text-align: center;
+}
+
+.wtwpn_page_title { 
+	margin-left: 20px;
+}
+

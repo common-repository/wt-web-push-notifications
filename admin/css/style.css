@@ -1,0 +1,25 @@
+#frmAddNT label.error {
+   color: red;
+}
+.owt-layout{
+  text-align: center;
+  border:1px solid black;
+  padding: 10px;
+  width: 25%;
+  margin-left:10px;
+}
+.wtwpn_icon {
+	height: 50px;
+} 
+.wtwpn_sendmsg
+{
+		width: 100px !important;
+		padding: 7px 0;
+		text-transform: uppercase;
+}
+#wtwpn_addnew
+ {
+    border-color: #008EC2!important;
+    background: #00a0d2!important;
+    color: #fff!important;
+}
